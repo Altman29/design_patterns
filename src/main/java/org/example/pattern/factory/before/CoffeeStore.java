@@ -1,7 +1,7 @@
 package org.example.pattern.factory.before;
 
 /**
- * 咖啡
+ * 咖啡店
  */
 public class CoffeeStore {
     public Coffee orderCoffee(String type) {
