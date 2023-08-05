@@ -6,8 +6,10 @@ package org.example.pattern.factory.config_factory;
  */
 public class Test {
     public static void main(String[] args) {
-        Coffee coffee = CoffeeFactory.createCoffee("american1");
-        System.out.println(coffee.getName());
+        Coffee coffee = CoffeeFactory.createCoffee("american");
+        System.out.println(coffee);
+        Coffee coffee1 = CoffeeFactory.createCoffee("american");
+        System.out.println(coffee1);
         System.out.println("==============");
 //        Coffee latte = CoffeeFactory.createCoffee("latte");
 //        System.out.println(latte.getName());
