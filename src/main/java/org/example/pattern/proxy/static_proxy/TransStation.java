@@ -1,4 +1,4 @@
-package org.example.pattern.static_proxy;
+package org.example.pattern.proxy.static_proxy;
 
 /**
  * 火车站

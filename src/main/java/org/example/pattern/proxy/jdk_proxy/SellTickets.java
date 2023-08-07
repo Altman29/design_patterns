@@ -1,4 +1,4 @@
-package org.example.pattern.static_proxy;
+package org.example.pattern.proxy.jdk_proxy;
 
 /**
  * 售票接口
