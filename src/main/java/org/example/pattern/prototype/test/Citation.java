@@ -16,7 +16,7 @@ public class Citation implements Cloneable {
     }
 
     @Override
-    protected Citation clone() throws CloneNotSupportedException {
+    public Citation clone() throws CloneNotSupportedException {
         return (Citation) super.clone();
     }
 }
