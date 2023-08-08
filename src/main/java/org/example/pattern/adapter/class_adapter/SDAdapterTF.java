@@ -1,4 +1,4 @@
-package org.example.pattern.class_adapter;
+package org.example.pattern.adapter.class_adapter;
 
 /**
  * 适配器类

@@ -1,4 +1,4 @@
-package org.example.pattern.class_adapter;
+package org.example.pattern.adapter.object_adapter;
 
 /**
  * TF卡
